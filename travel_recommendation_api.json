@@ -1,0 +1,42 @@
+{
+    "beach": [
+        {
+
+            "name": "Bora Bora, French Polynesia",
+            "imageUrl": "bora.jpeg",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+        },
+        {
+            
+            "name": "Copacabana Beach, Brazil",
+        "imageUrl": "copa.jpeg",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+        }
+    ],
+    "temple": [
+        {
+            "name": "Angkor Wat, Cambodia",
+        "imageUrl": "angkor.jpeg",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+            
+        },
+        {
+            "name": "Taj Mahal, India",
+        "imageUrl": "taj.jpeg",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+        }
+    ],
+    "country": [
+        {
+            "name": "Sydney, Australia",
+            "imageUrl": "sydney.jpeg",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+        },
+        {
+            
+            "name": "Melbourne, Australia",
+            "imageUrl": "melbourne.jpeg",
+            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+    ]
+}
